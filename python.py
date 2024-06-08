@@ -14,4 +14,4 @@ for value in df['median_house_value']:
      sum_median_house_value += value
 
 
-print(sum_median_house_value)mani
+print(sum_median_house_value)mani1111
