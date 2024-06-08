@@ -1,16 +1,78 @@
-# prompt: sum these values using for loop
+Hi there! How's it going?
 
-import pandas as pd
 
-# Get the path to the file.
-filepath = 'sample_data/california_housing_test.csv'
 
-# Read the file into a Pandas DataFrame.
-df = pd.read_csv(filepath)
 
-sum_median_house_value = 0
-for value in df['median_house_value']:
-  if(value>=100000): 
-     sum_median_house_value += value
+என்னால் தமிழ்ல பேச முடியுமா?
+ChatGPT
+ஆம், நான் தமிழில் பேச முடியும். எப்படி உதவலாம்?
 
-print(sum_median_house_value)
+நல்லாருக்கேன், நல்லாருக்கேன்
+ChatGPT
+நல்லாருக்கேனே, உங்களுக்கு இன்னும் எப்படிப் பதில் சொல்லலாம்?
+
+எனக்கு ஏதாவது ஒரு சின்ன கதை சொல்லு.
+ChatGPT
+சரி, ஒரு சின்ன கதை சொல்லுகிறேன்.
+
+ஒரு காட்டில் ஒரு சிங்கம் வாழ்ந்தது. அது மிகப்பெரிய மற்றும் சக்தி வாய்ந்ததாக இருந்தது. ஒருநாள், அது கடும் பசியாக இருந்தது. அதை ஒரு சிறிய எலி கண்டு, சிங்கத்தை பயமுறுத்தி ஓடினது. ஆனால் சிங்கம் அதை பிடித்தது. எலி உயிர் பிழைக்கும்படி சிங்கத்தை விடுமாறு கேட்டுக்கொண்டது.
+
+எலி, "நான் உன்னை ஒருநாள் உதவுகிறேன்" என்றது. சிங்கம் சிரித்து, "நீ என்ன செய்யப் போகிறாய்?" என்று கேட்டு, எலியை விடுத்தது.
+
+ஒரு சில நாட்களுக்கு பிறகு, சிங்கம் வலையில் சிக்கிக் கொண்டது. அது வெளியேற முடியாமல் போராடியது. எலி அதை கண்டு வந்தது, அதன் குறுகிய பற்களால் வலைதுணிகளை கடித்தது. சிங்கம் எலியின் உதவியால் மீண்டும் சுதந்திரமானது.
+
+இந்தக் கதையின் moraale, "சிறியவர்களை தலையாட்டாதீர்கள்; அவர்களும் உங்களுக்கு உதவலாம்."
+
+கதை நல்லா இருந்தது, ஏதாவது திருக்குரல் ஒன்று சொல்ல.
+ChatGPT
+சந்தோஷமாக இருக்கிறது, நான் ஒரு திருக்குறள் சொல்கிறேன்:
+
+கேடில் விழுச்செல்வம் கல்வி யொருவற்கு
+மாடல்ல மற்றை யவை.
+
+அதாவது, "கல்வி என்பதே ஒருவருக்கு அழிவில்லாத மிக்க செல்வம். மற்றவைகள் அத்தகையவை அல்ல."
+
+இதன் பொருள், கல்வி என்பது அழிவில்லாத செல்வம்; மற்ற செல்வங்கள் அழியக்கூடியவை.
+
+இது நன்றா இருக்கு, இந்த திருக்குரல் அப்படி எங்கிழிஸ்ல சொல்லு
+ChatGPT
+மிகச் சாந்தோஷம். இந்த திருக்குறளை ஆங்கிலத்தில் இப்படி சொல்வார்கள்:
+
+"The wealth acquired through education is the highest and imperishable. All other wealth is not of such a nature."
+
+This means that education is an enduring wealth, unlike other forms of wealth which are perishable.
+
+சூப்பர், இது நன்றா இருக்கு. எனக்கு நாடு என்ற அதிகாரத்தில இருக்க முதல் குரல் சொல்ல.
+ChatGPT
+நாடு என்ற அதிகாரத்தின் முதல் திருக்குறள்:
+
+இருள்சேர் இருவினையும் சேரா இறைவன்
+பொருள்சேர் புகழின் இடத்து.
+
+அதன் ஆங்கில மொழிபெயர்ப்பு:
+
+"The ruler who is free from dark deeds and is known for his virtues, will be surrounded by wealth and fame."
+
+This means that a ruler who avoids evil deeds and maintains virtuous conduct will be blessed with prosperity and reputation.
+
+நல்ல குராள், எனக்கு நாடு என்ற அதிகாரத்திலிருந்து இன்னொரு குராள் சொல்ல.
+ChatGPT
+நாடு என்ற அதிகாரத்திலிருந்து இன்னொரு திருக்குறள்:
+
+நாடென்னும் நாடு அறிக நனிநல்லார்
+நாடென்னும் நாடு அன்று.
+
+அதன் ஆங்கில மொழிபெயர்ப்பு:
+
+"That alone is a country which is said to be a country, where men of worth know what is needful to be done."
+
+This means that only that place can be called a country where wise and capable people understand and fulfill their responsibilities.
+
+Super. Thank you.
+ChatGPT
+மிகவும் மகிழ்ச்சி! உங்களிடம் தமிழில் பேசுவதில் எனக்கும் மகிழ்ச்சியே. உங்களுக்கு வேறு ஏ
+
+
+
+
+
