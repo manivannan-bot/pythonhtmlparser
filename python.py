@@ -1,4 +1,8 @@
+
+# prompt: sum these values using for loop praveeen
+
 # prompt: sum these values using for loop manivannan
+
 
 import pandas as pd
 
