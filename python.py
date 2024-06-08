@@ -1,4 +1,8 @@
+
 # prompt: sum these values using for loop praveeen
+
+# prompt: sum these values using for loop manivannan
+
 
 import pandas as pd
 
@@ -14,4 +18,4 @@ for value in df['median_house_value']:
      sum_median_house_value += value
 
 
-print(sum_median_house_value)mani
+print(sum_median_house_value)mani1111
